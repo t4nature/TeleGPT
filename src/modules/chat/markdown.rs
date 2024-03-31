@@ -444,7 +444,7 @@ End"#;
                     language: Some(ref lang)
                 },
                 offset: 25,
-                length: 19
+                length: 18
             } if lang == "c"
         ));
     }
