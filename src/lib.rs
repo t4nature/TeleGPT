@@ -27,7 +27,7 @@
 //!
 //! ## Further Readings
 //!
-//! For more information, see the [GitHub repository](https://github.com/IcyStudio/TeleGPT/).
+//! For more information, see the [GitHub repository](https://github.com/helixform/TeleGPT/).
 
 #[macro_use]
 extern crate log;

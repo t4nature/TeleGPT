@@ -1,6 +1,6 @@
 # TeleGPT
 
-[API Docs](https://icystudio.github.io/TeleGPT/telegpt_core) | [Releases](https://github.com/IcyStudio/TeleGPT/releases) | [Twitter](https://twitter.com/unixzii)
+[API Docs](https://helixform.github.io/TeleGPT/telegpt_core) | [Releases](https://github.com/helixform/TeleGPT/releases) | [Twitter](https://twitter.com/unixzii)
 
 ![Hero](./artworks/hero.png)
 
@@ -57,7 +57,7 @@ docker-compose pull # pull the latest image
 
 ### Download from release
 
-To deploy or test in-house, you can download the pre-built binary directly from the [releases](https://github.com/IcyStudio/TeleGPT/releases) page. Currently, Linux and macOS (Intel and Apple Silicon) hosts are supported.
+To deploy or test in-house, you can download the pre-built binary directly from the [releases](https://github.com/helixform/TeleGPT/releases) page. Currently, Linux and macOS (Intel and Apple Silicon) hosts are supported.
 
 ### Build from source
 
@@ -71,7 +71,7 @@ $ cargo build --release
 
 You need to create a configuration file before running the bot. The program reads `telegpt.config.json` from your current working directory by default, and you can also specify the config file path via `-c` option.
 
-The configuration is described in this [doc](https://icystudio.github.io/TeleGPT/telegpt_core/config/), and here is an example:
+The configuration is described in this [doc](https://helixform.github.io/TeleGPT/telegpt_core/config/), and here is an example:
 
 ```json
 {
